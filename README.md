@@ -62,23 +62,6 @@
 - 5-10% artificial error rate for resilience testing
 - Optimistic UI updates with rollback on failure
 
----
-
-## Live Demo Screenshots
-
-### 1. Jobs Board
-![Jobs Board](attachments/Job-Board.png)
-
-### 2. Candidates Kanban Board
-![Candidates Kanban](attachments/Candidate-List.png)
-
-### 3. Candidate Profile & Timeline
-![Candidate Profile](attachments/Candidate-Profile.png)
-
-### 4. Assessment Builder
-![Assessment Builder](attachments/Assesment-Builder.png)
-
----
 
 ## Tech Stack
 
